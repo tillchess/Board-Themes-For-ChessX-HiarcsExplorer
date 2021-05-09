@@ -7,9 +7,12 @@ Lichess, Droidfish, Scid vs. PC
 
 Chess pieces credits:
 
+cBurnett by CBurnett
+https://en.wikipedia.org/wiki/User:Cburnett/GFDL_images/Chess
+
 Kosal by Philatype
 https://github.com/philatype/kosal
 
-Fresca by Lichess artist I don't know
+Fresca by Lichess artist contributer
 
 Merida Silver and Merida Wood based on the free chess font "Merida" by ARMANDO HERNANDEZ MARROQUIN
