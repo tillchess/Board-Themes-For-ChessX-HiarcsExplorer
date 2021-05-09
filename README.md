@@ -3,7 +3,7 @@ Board Themes For ChessX or Hiarcs Explorer
 
 Color themes credits:
 
-Lichess, Droidfish and other chess GUI's
+Lichess, Droidfish, Scid vs. PC 
 
 Chess pieces credits:
 
